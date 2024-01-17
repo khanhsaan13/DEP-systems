@@ -1,0 +1,10 @@
+A, 600, Willy, 01/01/1988, 41 Station Street Wollongong NSW 2500, M, 250.5, 0, 9, Cook Read
+D, 700, Zhi, 12/09/1999, 112 Smith Street Windang NSW 2525, M, 80.2, 600, 9, C++ Java Python
+D, 800, Mary, 03/10/2000, 26 Gibsons Road Figtree NSW 2525, F, 50.0, 700, 9, Java Python SQL
+A, 500, Angelina, 20/11/1990, 25 Bong Bong Road Horsley NSW 2530, F, 250.0, 0, 8, Read Write
+D, 510, Anna, 20/11/1990, 200 Cemetary Road Hawea NSW 2800, F, 100.0, 500, 8, Python SQL
+A, 520, Madelaine, 20/11/1990, 23 Lake View Street Figtree NSW 2525, F, 50.0, 510, 8, Write Communication
+A, 530, Robert, 20/11/1990, 80 Penny Road Windang NSW 2520, M, 50.0, 510, 8, Management Travel
+D, 540, Claudio, 20/11/1990, 23 Horsley Street Unanderra NSW 2528, M, 50.0, 510, 8, Java C Python SQL
+D, 350, Brian, 13/05/1965, 23 Station Street Wollongong NSW 2500, M, 200.4, 0, 7, Shell Java Python
+D, 110, Alvin, 13/10/1977, 56 Marlo Road Wollongong NSW 2500, M, 156.4, 100, 1, SQL Shell HTML

@@ -1,0 +1,6 @@
+1001, Computation, Microsoft, 8, 25000
+1002, Study methods, Education committee, 3, 15000
+1003, Racing car, Cloud Pty Ltd, 3, 225000
+1004, Football, Football Club, 5, 35000
+1005, Swimming, Education Committee, 5, 125000
+1006, Database, Database Committee, 5, 125000
