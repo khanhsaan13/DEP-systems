@@ -1,6 +1,8 @@
 # DEP-systems
 The DEP system helps a company to manage departments, employees, projects and developers work on projects. The system load data of departments, employees, projects, and works-on from the text files when the program starts. Then the application shows a Graphic User Interface (GUI) so that a user can choose what to do.
 
+The program is required to be run in the terminal with JavaFX libraries installed locally. I am trying to find a way to somehow make it into a solid executable file. 
+
 UML Class Diagrams
 ![image](https://github.com/khanhsaan13/DEP-systems/assets/129593167/79a22241-1240-4825-9f2e-ad1a57e1969b)
 
